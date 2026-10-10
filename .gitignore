@@ -1,0 +1,27 @@
+# Private archive data
+data/raw/
+data/processed/
+
+
+# X/Twitter archive
+twitter-archive/
+*.zip
+
+# Environment variables
+.env
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+.ml-venv/
+venv/
+
+# macOS
+.DS_Store
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Downloaded machine-learning models
+.model-cache/
